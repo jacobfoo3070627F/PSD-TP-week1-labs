@@ -48,8 +48,8 @@
    > - Hellow, World! Jun Kiat
    > - Hello World, Matthew
    > - Hello World, Nabil
-# Heading 1
    > - Hello world, Jacob
+   >
    >
    >>
    >> - Bye Bye World.
@@ -57,9 +57,17 @@
    >> - Hello _Italics font_, Hello **Bold font**
    >
 
+
+Next, we will try syntax to create and edit a Markdown document as follows:
+
+It creates mulitple levels of headings. 
+
 # (1) Level 1 Heading 1
 ## (1.1) Level 2 Heading 1
 **Testing out bold**
+* It is for unordered list
+* Another item
+* third item
 
 ## (1.2) Level 2 Heading 2
 _Testing out italics_
