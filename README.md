@@ -60,6 +60,7 @@
    > - Hello World, Qi Xun
    > - Hello World, Sun Wei
    > - Hello World, Kenny
+   > - Hello World, Tze Kai
    >>
    >> - Bye Bye World.
    >>
