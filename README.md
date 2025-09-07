@@ -38,6 +38,7 @@
    > - Hello World, Hakim
    > - Hello World, Jie Shi
    > - Hello World, Travis
+   > - Hello World, Daryl
 
 
 # Heading 1
