@@ -59,6 +59,7 @@
    > - Hello world, Qian Qian 
    > - Hello World, Qi Xun
    > - Hello World, Sun Wei
+   > - Hello World, Kenny
    >>
    >> - Bye Bye World.
    >>
