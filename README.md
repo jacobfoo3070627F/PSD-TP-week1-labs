@@ -43,7 +43,7 @@
 	> - Hello world, Ming Wei
    > - Hello world, Yuki Kong
    > - Hello world, Javier
-
+   > - _~~**Hello** world~~, Shi Min_
 
 # Heading 1
 
