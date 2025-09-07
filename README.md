@@ -40,8 +40,8 @@
    > - Hello World, Travis
    > - Hello World, Daryl
    > - Hello World, Subhashini
-   > - Hello World, Yuki
-
+	> - Hello world, Ming Wei
+   > - Hello world, Yuki Kong
 
 # Heading 1
 
