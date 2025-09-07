@@ -85,7 +85,7 @@ _Testing out italics_
 
 # (3) Level 1 Heading 3
 This is the image of UofG: 
-![UofG image](./UofG_image.jpg)
+![UofG image](https://github.com/UofG-CS-2025/PSD-TP-week1-labs/blob/master/UofG_image.jpg)
 
 This is the end of Labs 1 of CSC2101. 
 
