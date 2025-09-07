@@ -50,6 +50,8 @@
    > - Hello World, Nabil
    > - Hello world, Jacob
    > - Hello World, Benedict
+   > - Hello world, Wei Hao
+   >
    >
    >>
    >> - Bye Bye World.
