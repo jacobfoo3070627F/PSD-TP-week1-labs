@@ -47,19 +47,35 @@
    > - Hello world, Adli
    > - Hellow, World! Jun Kiat
 # Heading 1
+   > - Hello world, Jacob
+   >
+   >>
+   >> - Bye Bye World.
+   >>
+   >> - Hello _Italics font_, Hello **Bold font**
+   >
 
+# (1) Level 1 Heading 1
+## (1.1) Level 2 Heading 1
 **Testing out bold**
 
+## (1.2) Level 2 Heading 2
 _Testing out italics_
-
+### Level 3 Heading
 1. First item
 2. Second item
 3. Third item
 
+# (2) Level 1 Heading 2
 > This is a block quote
 >
 > This is a block quote after a blank one
-
+>
 > - [Video link can be also inserted at Readme.md](https://www.youtube.com/watch?v=9UW6jnkiRQE)
 
-Hello world, Jacob
+# (3) Level 1 Heading 3
+This is the image of UofG: 
+![UofG image](UofG_image.jpg)
+
+This is the end of Labs 1 of CSC2101. 
+
