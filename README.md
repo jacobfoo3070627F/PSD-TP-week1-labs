@@ -20,7 +20,6 @@
 6. After that, please commit your changes and push your local revised README.md back to this Github repository.
 7. Everyone in the class should be able to see the commonly updated README.md contents at this repository.
    > - hello world for **week 1 labs**
-   >
    > - Hello World! 🤡
    > - Bye Bye World.
    > - Hello _Italics_, Hello **Bold**
@@ -33,8 +32,9 @@
    > - Hello **world**, _Lixuan_
    > - Hello World, Isaac!
    > - Hello World, Fang Jun
-   > - Hello World, Annaqi 🏳️‍🌈 
-
+   > - Hello World, Annaqi 🏳️‍🌈
+   > - Hello World, Alicia
+   >
 
 # Heading 1
 
