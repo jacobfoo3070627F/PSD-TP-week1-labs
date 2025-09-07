@@ -36,6 +36,7 @@
    > - Hello World, Yee Mei 
    > - Hello World, Alicia
    > - Hello World, Hakim
+   > - Hello World, Jie Shi
 
 
 # Heading 1
