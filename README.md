@@ -65,6 +65,7 @@
    > - Hello **World**, Haoting 🌟
    > - Hello World, Quan Yi
    > - Hello World, Metta Tan
+   > - _Hello_ **World**, Jun Hao
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
