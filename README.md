@@ -32,15 +32,15 @@
    > - Hello **world**, _Lixuan_
    > - Hello World, Isaac!
    > - Hello World, Fang Jun
-   > - Hello World, Annaqi 🏳️‍🌈 
-   > - Hello World, Yee Mei 
+   > - Hello World, Annaqi 🏳️‍🌈
+   > - Hello World, Yee Mei
    > - Hello World, Alicia
    > - Hello World, Hakim
    > - Hello World, Jie Shi
    > - Hello World, Travis
    > - Hello World, Daryl
    > - Hello World, Subhashini
-	> - Hello world, Ming Wei
+   > - Hello world, Ming Wei
    > - Hello world, Yuki Kong
    > - Hello world, Javier
    > - _~~**Hello** world~~, Shi Min_
@@ -55,8 +55,8 @@
    > - hello world, vuitton...
    > - Hello world, Junwei
    > - Hello world, Yuzhe :)
-   > - Hello **world**, Chamei 
-   > - Hello world, Qian Qian 
+   > - Hello **world**, Chamei
+   > - Hello world, Qian Qian
    > - Hello World, Qi Xun
    > - Hello World, Sun Wei
    > - Hello World, Kenny
@@ -64,33 +64,37 @@
    > - Hello World, Gaddiel Lim
    > - Hello **World**, Haoting 🌟
    > - Hello World, Quan Yi
-
-   >>
-   >> - Bye Bye World.
-   >>
-   >> - Hello _Italics font_, Hello **Bold font**
-   >
-
+   > - Hello World, Metta Tan
+   >   > - Bye Bye World.
+   >   >
+   >   > - Hello _Italics font_, Hello **Bold font**
 
 Next, we will try syntax to create and edit a Markdown document as follows:
 
-It creates mulitple levels of headings. 
+It creates mulitple levels of headings.
 
 # (1) Level 1 Heading 1
+
 ## (1.1) Level 2 Heading 1
+
 **Testing out bold**
-* It is for unordered list
-* Another item
-* third item
+
+- It is for unordered list
+- Another item
+- third item
 
 ## (1.2) Level 2 Heading 2
+
 _Testing out italics_
+
 ### Level 3 Heading
+
 1. First item
 2. Second item
 3. Third item
 
 # (2) Level 1 Heading 2
+
 > This is a block quote
 >
 > This is a block quote after a blank one
@@ -98,9 +102,10 @@ _Testing out italics_
 > - [Video link can be also inserted at Readme.md](https://www.youtube.com/watch?v=9UW6jnkiRQE)
 
 # (3) Level 1 Heading 3
-This is the image of UofG: 
+
+This is the image of UofG:
 ![UofG image](UofG_image.jpg)
 
-This is the end of Labs 1 of CSC2101. 
+This is the end of Labs 1 of CSC2101.
 
 # PSD-TP-week1-labs Project
