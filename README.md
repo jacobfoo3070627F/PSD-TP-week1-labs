@@ -68,6 +68,7 @@
    > - _Hello_ **World**, Jun Hao
    > - Hello World, Ben
    > - Hello World, Clairer
+   > - Hello World, Randy
    > - Hello World, Adam Lee
    > - Hello World, Sunkang
    >   > - Bye Bye World.
