@@ -69,6 +69,7 @@
    > - Hello World, Ben
    > - Hello World, Clairer
    > - Hello World, Randy
+   > - Hello World, Adam Lee
    > - Hello World, Sunkang
    > - _HELLO WORLD_ , sara
    > - Hello _World_, **Jabier**
