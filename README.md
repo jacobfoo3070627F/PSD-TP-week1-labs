@@ -68,7 +68,9 @@
    > - _Hello_ **World**, Jun Hao
    > - Hello World, Ben
    > - Hello World, Clairer
-   > - Hello World, Reynard
+   > - Hello World, Randy
+   > - Hello World, Sunkang
+   > - _HELLO WORLD_ , sara
    >   > - Bye Bye World.
    >   >
    >   > - Hello _Italics font_, Hello **Bold font**
