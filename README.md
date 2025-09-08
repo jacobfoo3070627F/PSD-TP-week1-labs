@@ -67,6 +67,7 @@
    > - Hello World, Metta Tan
    > - _Hello_ **World**, Jun Hao
    > - Hello World, Ben
+   > - Hello World, Clairer
    > - Hello World, Sunkang
    >   > - Bye Bye World.
    >   >
