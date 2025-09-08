@@ -48,7 +48,7 @@
    > - Hellow, World! Jun Kiat
    > - Hello World, Matthew
    > - Hello World, Nabil
-   > - Hello world, Jacob
+   > - Hello world, **Jacob**
    > - Hello World, Benedict
    > - Hello world, Wei Hao
    > - Hello world, Tun Siang
