@@ -62,6 +62,8 @@
    > - Hello World, Kenny
    > - Hello _World_, **Tze Kai**
    > - Hello World, Gaddiel Lim
+   > - Hello World, Haoting
+
    >>
    >> - Bye Bye World.
    >>
